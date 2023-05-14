@@ -50,7 +50,7 @@ def save_data():
 
 # Create the GUI window
 window = tk.Tk()
-window.title("CSV Data Processor")
+window.title("Delete Unused Credentials")
 window.geometry("400x200")  # Set the window size (width x height)
 
 # Load the data
