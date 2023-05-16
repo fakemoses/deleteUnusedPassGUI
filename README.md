@@ -1,4 +1,4 @@
-# deleteUnusedPassGUI
+# Delete Unused Pass GUI
 A lazy solution to delete unwanted/extinct credential from my uname password lists. Delete credentials and save them as new file. 
 
 ## Usage
